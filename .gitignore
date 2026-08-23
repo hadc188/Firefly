@@ -37,3 +37,6 @@ Firefly-docs/
 cache/
 package/
 .obsidian/
+.ace-tool/
+.wrangler/
+.pnpm-store/
